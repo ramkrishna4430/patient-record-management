@@ -119,7 +119,7 @@ Patient Id | Name | Age | Gender | Diagnosis | Medical History | Current Treatme
 
 1. Create a `.env` file:
 
-```
+```'
 EMAIL_USER=your_email@gmail.com
 EMAIL_PASS=your_app_password
 ```
